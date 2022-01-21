@@ -163,6 +163,7 @@ li{
     list-style-position: outside;
     padding-left: 0;
     padding-right: 10px;
+    
 }
 
 input, label, textarea, select{
@@ -341,7 +342,7 @@ textarea{
 
 .main-footer li{
     display: inline-block;
-    margin-bottom: 0.5em;
+    margin-bottom: -0px;
 }
 
 .icon-link{
